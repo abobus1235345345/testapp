@@ -1,0 +1,11 @@
+D:\ИС 21\455345\455345\bin\Debug\455345.exe.config
+D:\ИС 21\455345\455345\bin\Debug\455345.exe
+D:\ИС 21\455345\455345\bin\Debug\455345.pdb
+D:\ИС 21\455345\455345\obj\Debug\455345.csproj.AssemblyReference.cache
+D:\ИС 21\455345\455345\obj\Debug\455345.csproj.SuggestedBindingRedirects.cache
+D:\ИС 21\455345\455345\obj\Debug\_455345.Form1.resources
+D:\ИС 21\455345\455345\obj\Debug\_455345.Properties.Resources.resources
+D:\ИС 21\455345\455345\obj\Debug\455345.csproj.GenerateResource.cache
+D:\ИС 21\455345\455345\obj\Debug\455345.csproj.CoreCompileInputs.cache
+D:\ИС 21\455345\455345\obj\Debug\455345.exe
+D:\ИС 21\455345\455345\obj\Debug\455345.pdb
